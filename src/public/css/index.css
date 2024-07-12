@@ -1,0 +1,11 @@
+.timestamp__auth-message {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.timestamp-table__inner {
+  display: flex;
+  justify-content: center;
+}
